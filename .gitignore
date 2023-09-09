@@ -1,0 +1,4 @@
+*.csv
+/Doc
+.DS_Store
+settings.json
